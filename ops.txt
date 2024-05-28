@@ -13,3 +13,5 @@ Collaboration: Open source software is often developed collaboratively by a comm
 Cost: Open source software is typically free to use and distribute, which can result in significant cost savings for organizations.
 
 Many popular software programs and applications, including the Linux operating system, the Apache web server, and the Mozilla Firefox web browser, are examples of open source software.
+
+Security: Open Source softwares are more secure since a lot of programmers have access to it so they van fix any errors or security false that arises.
